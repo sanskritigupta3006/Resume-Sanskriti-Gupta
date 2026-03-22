@@ -91,3 +91,7 @@ body {
 .box ul li {
     margin-bottom: 5px;
 }
+@page {
+    size: A4;
+    margin: 0;
+}
