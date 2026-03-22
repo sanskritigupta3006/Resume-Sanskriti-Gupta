@@ -21,7 +21,7 @@ body {
 
 /* LEFT SIDE */
 .left {
-    width: 40%;
+    width: 45%;
     background: #c48a9d;
     color: white;
     padding: 20px;
@@ -64,7 +64,7 @@ body {
 
 /* RIGHT SIDE */
 .right {
-    width: 60%;
+    width: 55%;
     padding: 20px;
     background: #f8f1ec;
 }
